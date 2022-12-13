@@ -1,0 +1,100 @@
+body {
+    margin: 0;
+}
+
+#main1 {
+    
+    width: auto;
+    height: 40%;
+    left: 0px;
+    top: 0px;
+    display: flex;
+    background: #6943FF;
+    flex-direction: column;
+}
+
+#title {
+    align-self: center;
+    color: white;
+    font-weight: bold;
+    font-size: 3em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#input_el {
+    align-self: center;
+    width: 117px;
+    height: 83px;
+    left: 217px;
+    top: 101px;
+    border: 2px solid #B295FF;
+    border-radius: 5px;
+    background: #6943FF;
+    margin: auto;
+    
+}
+
+#convert_btn {
+    width: 117px;
+    height: 42px;
+    left: 217px;
+    top: 209px;
+    background: #FFFFFF;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.05);
+    border-radius: 5px;
+    margin: auto;
+    
+}
+
+#main2 {
+    width: auto;
+    height: 60%;
+    left: 696px;
+    top: 126px;
+    display: flex;
+    flex-direction: column;
+    background: #1F2937;
+    align-items: center;
+}
+
+#length {
+    background: #273549;
+    border-radius: 4.68077px 0px 0px 0px;
+    margin: auto;
+    width: 80%;
+    
+}
+
+#volume {
+    background: #273549;
+    border-radius: 4.68077px 0px 0px 0px;
+    margin: auto;
+    width: 80%;
+}
+
+#mass {
+    background: #273549;
+    border-radius: 4.68077px 0px 0px 0px;
+    margin: auto;
+    width: 80%;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Inter';
+    font-style: normal;
+    color: #CCC1FF;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    text-align: center;
+    line-height: 143%;
+    color: white;
+
+}
